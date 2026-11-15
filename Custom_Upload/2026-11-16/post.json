@@ -1,0 +1,37 @@
+{
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "title": "Learn Swedish for everyday life | SvenskaVardag",
+  "text": "Want to learn Swedish for everyday life? 🇸🇪\nSvenskaVardag has 58 short lessons, quick quizzes, a 1,304-word library and a fika card that fills up as you learn. Free, and no sign-in needed.\n\n📝 \"Hej! Jag heter Samira. Trevligt att träffas!\"\n↳ Hi! My name is Samira. Nice to meet you!\n\n🎓 You get:\n• 58 short lessons for real situations\n• Quick quizzes to test yourself\n• A 1,304-word library with audio\n• A fika card that fills as you learn\n\nsvenskavardag.com",
+  "hashtags": [
+    "#LearnSwedish",
+    "#Svenska",
+    "#SwedishForBeginners",
+    "#LearnSwedishFree",
+    "#SwedishLessons"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "learn Swedish",
+      "Swedish for beginners",
+      "Swedish lessons",
+      "free Swedish course",
+      "Swedish app",
+      "svenska",
+      "everyday Swedish"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "sv"
+  }
+}
