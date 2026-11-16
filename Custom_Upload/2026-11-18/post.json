@@ -1,0 +1,37 @@
+{
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "title": "Learn Swedish at the bus stop: Har fyran redan gått? | SvenskaVardag",
+  "text": "Is the bus late, or are you? 🚌\nFollow Maja and Andreas at a Stockholm bus stop and learn how to ask about the bus and tell someone to take it easy.\n\n📝 \"Hej Maja! Har fyran redan gått?\"\n↳ Hi Maja! Has the 4 already gone?\n\n📝 \"Nej, den är sen. Precis som du!\"\n↳ No, it's late. Just like you!\n\n📝 \"Okej, okej. Men jag hann!\"\n↳ Okay, okay. But I made it!\n\n📝 \"Där kommer den. Ta det lugnt!\"\n↳ There it comes. Take it easy!\n\n🎓 You learn:\n• fyran = bus line 4 (Swedes name lines by number + -an)\n• sen = late\n• hinna / hann = to make it in time\n• Ta det lugnt! = Take it easy!",
+  "hashtags": [
+    "#LearnSwedish",
+    "#Svenska",
+    "#SwedishConversation",
+    "#Busshållplats",
+    "#TaDetLugnt"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "learn Swedish",
+      "Swedish conversation",
+      "Swedish at the bus stop",
+      "fyran",
+      "ta det lugnt",
+      "precis som du",
+      "Swedish A2"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "sv"
+  }
+}
