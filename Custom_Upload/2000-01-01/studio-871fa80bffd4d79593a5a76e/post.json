@@ -1,0 +1,35 @@
+{
+  "video": "video.mp4",
+  "title": "Swedish Quiz: What Is This Called? (Reflex) | SvenskaVardag",
+  "text": "What is this small thing on Swedish jackets called? 🔦 Pick A or B before the answer!\n\n📝 \"En reflex! Den syns i mörkret.\"\n↳ A reflector! You can see it in the dark.\n\n🎓 en reflex = a reflector, syns = can be seen\n\n👉 Follow @svenskavardag for a little Swedish every day. Share this with a friend who is learning Swedish.",
+  "hashtags": [
+    "#LearnSwedish",
+    "#SwedishQuiz",
+    "#Svenska",
+    "#SwedishWords",
+    "#Shorts"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "Swedish quiz",
+      "learn Swedish",
+      "Swedish vocabulary",
+      "reflex in Swedish",
+      "Swedish words"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "en"
+  },
+  "cover": "cover.jpg"
+}
