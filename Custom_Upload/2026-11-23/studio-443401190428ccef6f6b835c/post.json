@@ -1,0 +1,19 @@
+{
+  "video": "video.mp4",
+  "title": "\"Vad kallt det är idag!\" What Do You Answer? | Swedish Small Talk | SvenskaVardag",
+  "text": "A stranger at the bus stop says \"Vad kallt det är idag!\" 🥶 It's not a complaint, it's small talk. What do you answer? Write it in Swedish in the comments! ☀️\n\n📝 \"Vad kallt det är idag!\"\n↳ It's so cold today! (an invitation to chat)\n\n🎓 Ja, verkligen! Det är iskallt. = Yes, really! It's freezing.\nMen det ska bli sol i helgen! = But it's going to be sunny this weekend!\n\n👉 Follow @svenskavardag for a little Swedish every day. Share this with a friend who is learning Swedish.",
+  "hashtags": ["#LearnSwedish", "#Svenska", "#SvenskaVardag", "#SwedishSmallTalk", "#SwedishWeather"],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {"textOverride": null},
+  "facebook": {"textOverride": null},
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": ["vad kallt det är idag", "Swedish small talk", "learn Swedish", "Swedish phrases", "Swedish weather", "Swedish for beginners", "Swedish conversation"],
+    "audience": "general",
+    "category": "27",
+    "language": "en"
+  },
+  "cover": "cover.jpg"
+}
