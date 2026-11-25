@@ -1,0 +1,36 @@
+{
+  "video": "video.mp4",
+  "title": "Swedish Bus Quiz: Can You Understand These 3 Phrases? | SvenskaVardag",
+  "text": "Can you catch what people say on a Swedish bus? 🚌 Three quick questions, guess A or B and count your score.\n\n🎓 ska av = getting off, ska på = getting on.\n\n👉 Follow @svenskavardag for a little Swedish every day. Share this with a friend who is learning Swedish.",
+  "hashtags": [
+    "#LearnSwedish",
+    "#SwedishQuiz",
+    "#SwedishListening",
+    "#Svenska",
+    "#Shorts"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "Swedish quiz",
+      "Swedish listening practice",
+      "Swedish on the bus",
+      "learn Swedish",
+      "ska av ska på",
+      "Swedish for beginners"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "en"
+  },
+  "cover": "cover.jpg"
+}
