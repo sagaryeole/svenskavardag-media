@@ -1,0 +1,34 @@
+{
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "title": "What Do You Say When the Cashier Speaks Too Fast? | Swedish",
+  "text": "The cashier speaks too fast. What can you say? Practise a useful Swedish phrase for asking someone to repeat.\n\nFörlåt, kan du säga det igen? = Sorry, can you say that again?\n\nTry saying it out loud!",
+  "hashtags": [
+    "#LearnSwedish",
+    "#SwedishConversation",
+    "#Svenska",
+    "#SvenskaVardag",
+    "#Shorts"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "learn Swedish",
+      "Swedish conversation",
+      "Swedish checkout",
+      "Swedish for beginners"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "en"
+  }
+}
