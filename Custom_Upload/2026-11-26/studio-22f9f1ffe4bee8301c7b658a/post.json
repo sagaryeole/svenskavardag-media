@@ -1,0 +1,34 @@
+{
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "title": "How to Agree and Disagree in Swedish | Jag håller med dig",
+  "text": "How do you agree or disagree in Swedish? Join Maja and Andreas and practise along.\n\nJag håller med dig = I agree with you.\nJag håller inte med = I don’t agree.\n\nHåller du med? Tell us in the comments!",
+  "hashtags": [
+    "#LearnSwedish",
+    "#SwedishConversation",
+    "#Svenska",
+    "#SvenskaVardag",
+    "#Shorts"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "learn Swedish",
+      "Swedish conversation",
+      "jag håller med",
+      "Swedish for beginners"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "en"
+  }
+}
