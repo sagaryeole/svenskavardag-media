@@ -1,0 +1,34 @@
+{
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "title": "Missed the Meeting Time? Ask Again in Swedish | SvenskaVardag",
+  "text": "Your phone buzzes just as your colleague says the time. What do you say?\n\nUrsäkta, kan du säga det igen? = Excuse me, can you say that again?\n\nSay it out loud!",
+  "hashtags": [
+    "#LearnSwedish",
+    "#SwedishPhrases",
+    "#SwedishAtWork",
+    "#Svenska",
+    "#Shorts"
+  ],
+  "appendProfileLinks": true,
+  "rightsConfirmed": true,
+  "instagram": {
+    "textOverride": null
+  },
+  "facebook": {
+    "textOverride": null
+  },
+  "youtube": {
+    "visibility": "public",
+    "textOverride": null,
+    "tags": [
+      "learn Swedish",
+      "Swedish at work",
+      "Swedish conversation",
+      "Swedish for beginners"
+    ],
+    "audience": "general",
+    "category": "27",
+    "language": "en"
+  }
+}
